@@ -9,6 +9,8 @@
 
 контрольная gnuplot - https://docs.google.com/document/d/1-Q5FmR3Nv80yTxpVf8q6egbQZPMEspaRczdHAbVnyL8/edit?usp=sharing
 
+экзамен информатика - https://docs.google.com/document/d/1rQm1TBxotn-myRexYFOAa3WWVeniKbXMAXWv_H6wpBI/edit?usp=sharing
+
      
 ## Работа с Python
 ____
@@ -42,7 +44,9 @@ ____
 - [ ] [Скрипт на очищения директории](https://docs.google.com/document/d/1AmOpk7dY8OK64G0bfkwhxihP3l7A2fp88E1CiGCAeS0/edit?usp=drive_link)
 - [ ] [Графики на gnuplot: 4 2д графика и один 3д график](https://docs.google.com/document/d/1AmOpk7dY8OK64G0bfkwhxihP3l7A2fp88E1CiGCAeS0/edit?usp=drive_link)
 - [ ] [Порядок действий для смены пароля](https://docs.google.com/document/d/1o8V7UsoNPFYD0p6SKxOkQEwMOaOn0FM5kiKRzOzeT38/edit?usp=sharing) 
-- [ ] [контрольная работа по графикам](https://docs.google.com/document/d/1-Q5FmR3Nv80yTxpVf8q6egbQZPMEspaRczdHAbVnyL8/edit?usp=sharing) 
+- [ ] [контрольная работа по графикам](https://docs.google.com/document/d/1-Q5FmR3Nv80yTxpVf8q6egbQZPMEspaRczdHAbVnyL8/edit?usp=sharing)
+
+- [ ] Экзамен информатика [вариант 13](https://docs.google.com/document/d/1rQm1TBxotn-myRexYFOAa3WWVeniKbXMAXWv_H6wpBI/edit?usp=sharing)
 
 ## Участие в жизни техникума (саморазвитие)
 ____
