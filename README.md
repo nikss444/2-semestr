@@ -13,21 +13,21 @@
 ## Работа с Python
 ____
 - [ ] Ссылка на гугл [колаб](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg?usp=sharing), в котором через # и ## есть следующие разделы и подразделы:
-    - [ ] Условия на примере цены товара
-        - [ ] Задание и блок-схема
-        - [ ] Код  
+    - [ ] [Условия на примере цены товара](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=HEfLEX9t0KKU)
+        - [ ] [Задание и блок-схема](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=3ujRP9_UQKIa&line=5&uniqifier=1)
+        - [ ] [Код](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=wxhzXvB_fMI2)  
     - [ ] Якласс
         - [ ] Название практической и номер задания
         - [ ] Скрины всех выполненных работ
               
-    - [ ] Пароль
-        - [ ] Задание и блок-схема
-        - [ ] Регулярные выражения
-        - [ ] Код пароля в классе
-        - [ ] Объявление и вызов функции
-        - [ ] Принципы ООП
-        - [ ] Специальные методы класса (5шт)
-    - [ ] Аналитика данных
+    - [ ] [Пароль](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=bTVxUzr_0aSG)
+        - [ ] [Задание и блок-схема](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=9mO4hzZufbeX)
+        - [ ] [Регулярные выражения](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=ZS2fU_drqX6h)
+        - [ ] [Код пароля в классе](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=b2schz_9xwCP)
+        - [ ] [Объявление и вызов функции](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=eG-P6BwKe0WA)
+        - [ ] [Принципы ООП](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=V2eLAevz2ChR)
+        - [ ] [Специальные методы класса](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=SvsVaxeCwKL6) (5шт)
+    - [ ] [Аналитика данных](https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg#scrollTo=ZOtGYGYo7tUS)
         - [ ] Задание и блок-схема
         - [ ] Сводная таблице с формулами 
         - [ ] 3 способа загрузки файлов
