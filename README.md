@@ -1,5 +1,5 @@
 # 2-semestr
-конспекты колаб - https://colab.research.google.com/drive/1dCiVG6KwVImhF7lNr8xvJwK6UrbLrKin?usp=drive_link
+конспекты колаб - https://colab.research.google.com/drive/1Ul5m_kw4YhQuvNfobB2Re4rqPZ3hLstg?usp=sharing
 
 Практические работы - https://docs.google.com/document/d/1DbTRDplcCdqW81e1I1D9Y93hKwSwTAOgvR4MomYKa98/edit?usp=drive_link
 
