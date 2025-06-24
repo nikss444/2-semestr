@@ -61,6 +61,7 @@ ____
     - [ ] [#МЫВМЕСТЕ ](https://t.me/luberteh/5790)
     - [ ] [Областные соревнования по настольному теннису](https://t.me/luberteh/5402)
     - [ ] [отчет о посещении лекций в Лужниках](https://docs.google.com/document/d/1yPdcTGGtP3WaDGkjDNH0zXd4pC6M2eEWEIMCR_Cc6HM/edit?usp=sharing): фото, пересказ лекции, что пропробовали применить и запустить у себя дома
+    - [ ] [Презинтация о посещении лекций в Лужниках](https://docs.google.com/presentation/d/1VFep4_iACC5irHjPLNKvf4RHEtWbcmo0/edit?usp=sharing&ouid=100682212132554633949&rtpof=true&sd=true)
 - [ ] Сертификаты:
     - [ ][Траектория будующего 24-25 VR-разработка](https://drive.google.com/file/d/15sFO634YRbWJ0qoslEJQsJQdI7ZAbii3/view?usp=drive_link)
     - [ ][Траектория будующего 24-25 Кинопроизводства](https://drive.google.com/file/d/1HK0s-_g5e7bAx_lhxlKDY2QRf8jEEz6B/view?usp=drive_link)
